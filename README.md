@@ -21,7 +21,7 @@ Há diversas formas de fazer isso. Uma delas como observada no primeiro exemplo 
 é usando o __fetch__.
 
 Usando apenas um argumento o fetch está fazendo uma requisição à url apresentada e sera retornado uma
-_respose_ (resposta). 
+_response_ (resposta). 
 ```como quando pedimos algo ao garçom e ele nos diz "ok, recebi seu pedido"```
 Mas um "ok" não é só o que queremos. Precisamos recebe nosso pedido, ver ele.
 Nesse caso nossa requisição é para recebermos um array de objetos contendo uma lista de usuários.
