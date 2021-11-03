@@ -1,5 +1,5 @@
 const content = document.getElementById('content');
-const URL = "https://jsonplaceholder.typicode.com/posts?userId=1";
+const URL = "https://jsonplaceholder.typicode.com/users";
 fetch(URL)
   .then(Response => Response.json()).then(Users => {
     Users.forEach(Users => {
